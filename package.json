@@ -1,0 +1,22 @@
+{
+  "name": "noci",
+  "version": "1.0.3",
+  "description": "Procedural Icon Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabone/noci.git"
+  },
+  "keywords": ["noci", "procedural", "generation", "random", "image", "avatar"],
+  "author": "Luca Tabone <taboneluca3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabone/noci/issues"
+  },
+  "dependencies": {
+    "chance": "^1.1.8"
+  }
+}
